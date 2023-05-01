@@ -1,5 +1,17 @@
 ### Hi there 👋 I'm Eugen!
 
+## 💭 About me 
+- Studying programming at [42 Heilbronn](https://www.42heilbronn.de/en/ "Homepage of 42 Heilbronn")
+## 📝 Currently working on:
+- [ft_printf](https://github.com/itseugen/ft_printf)
+## 🔧 Skills:
+### 🔨 Currently using/learning:
+[![My Skills](https://skillicons.dev/icons?i=c,git,vscode,bash)](https://skillicons.dev)
+### 🧰 Other Skills:
+[![My Skills](https://skillicons.dev/icons?i=discord,html,css)](https://skillicons.dev)
+> <sub><sup>C, Git, VSCode, bash </sub></sup>\
+> <sub><sup>Discord Bot, html, CSS </sub></sup>
+
 <!--
 **itseugen/itseugen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
