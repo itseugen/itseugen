@@ -3,7 +3,7 @@
 ## 💭 About me 
 - Studying programming at [42 Heilbronn](https://www.42heilbronn.de/en/ "Homepage of 42 Heilbronn")
 ## 📝 Currently working on:
-- [ft_printf](https://github.com/itseugen/ft_printf "My github repository")
+- [push_swap](https://github.com/itseugen/push_swap "My github repository")
 ## 🔧 Skills:
 ### 🔨 Currently using/learning:
 [![My Skills](https://skillicons.dev/icons?i=c,git,vscode,bash)](https://skillicons.dev)
