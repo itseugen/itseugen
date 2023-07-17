@@ -4,7 +4,6 @@
 - Studying programming at [42 Heilbronn](https://www.42heilbronn.de/en/ "Homepage of 42 Heilbronn")
 ## 📝 Currently working on:
 - [push_swap](https://github.com/itseugen/push_swap "My github repository")
-- [fract-ol](https://github.com/itseugen/fract-ol "My github repository")
 ## 🔧 Skills:
 ### 🔨 Currently using/learning:
 [![My Skills](https://skillicons.dev/icons?i=c,git,vscode,bash)](https://skillicons.dev)
