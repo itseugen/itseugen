@@ -3,7 +3,6 @@
 ## 💭 About me 
 - Studying programming at [42 Heilbronn](https://www.42heilbronn.de/en/ "Homepage of 42 Heilbronn")
 ## 📝 Currently working on:
-- [push_swap](https://github.com/itseugen/push_swap "My github repository")
 - [pipex](https://github.com/itseugen/pipex "My github repository")
 ## 🔧 Skills:
 ### 🔨 Currently using/learning:
