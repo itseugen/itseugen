@@ -6,7 +6,7 @@
 - [C++](https://github.com/itseugen/CPP "My github repository")
 ## 🔧 Skills:
 ### 🔨 Currently using/learning:
-[![My Skills](https://skillicons.dev/icons?i=c,git,vscode,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,git,vscode,bash,c++)](https://skillicons.dev)
 ### 🧰 Other Skills:
 [![My Skills](https://skillicons.dev/icons?i=discord,html,css)](https://skillicons.dev)
 > <sub><sup>C, Git, VSCode, bash </sub></sup>\
