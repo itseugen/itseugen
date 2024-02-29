@@ -3,7 +3,7 @@
 ## 💭 About me 
 - Studying programming at [42 Heilbronn](https://www.42heilbronn.de/en/ "Homepage of 42 Heilbronn")
 ## 📝 Currently working on:
-- [CPP]([https://github.com/RealConrad/42miniRT](https://github.com/itseugen/CPP) "My github repository")
+- [C++](https://github.com/itseugen/CPP "My github repository")
 ## 🔧 Skills:
 ### 🔨 Currently using/learning:
 [![My Skills](https://skillicons.dev/icons?i=c,git,vscode,bash)](https://skillicons.dev)
