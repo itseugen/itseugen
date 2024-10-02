@@ -3,7 +3,7 @@
 ## 💭 About me 
 - Studying programming at [42 Heilbronn](https://www.42heilbronn.de/en/ "Homepage of 42 Heilbronn")
 ## 📝 Currently working on:
-- [Inception](https://github.com/itseugen/Inception "My github repository")
+- [Inception]((https://github.com/MaryKateEvan) "My github repository")
 ## 🔧 Skills:
 ### 🔨 Currently using/learning:
 [![My Skills](https://skillicons.dev/icons?i=c,git,vscode,bash,cpp)](https://skillicons.dev)
